@@ -1,0 +1,1 @@
+a test case on switch case to check the category of an anmial

@@ -1,0 +1,1 @@
+junit test case on switch case
